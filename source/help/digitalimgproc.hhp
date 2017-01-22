@@ -1,0 +1,12 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=digitalimgproc.chm
+Contents file=Table of Contents.hhc
+Default topic=overview.htm
+Display compile progress=No
+Language=0x419 Русский (Россия)
+Title=Цифровая обработка изображений
+
+
+[INFOTYPES]
+
